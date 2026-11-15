@@ -1,0 +1,15 @@
+:root {
+  --bg-dark: #121212;
+  --bg-dark-2: #1B1B1B;
+  --bg-light: #FFFFFF;
+  --bg-light-2: #F3F3F3;
+  --text-on-dark: #FFFFFF;
+  --text-on-dark-muted: rgba(255, 255, 255, 0.64);
+  --text-on-light: #121212;
+  --text-on-light-muted: #58595B;
+  --line-dark: rgba(255, 255, 255, 0.14);
+  --line-light: rgba(18, 18, 18, 0.14);
+  --accent: #EE1C25;
+  --accent-deep: #B01116;
+  --grey-telkom: #808285;
+}

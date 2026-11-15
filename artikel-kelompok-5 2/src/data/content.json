@@ -1,0 +1,362 @@
+{
+  "_catatan": "Seluruh teks di bawah bersumber dari dokumen riset asli yang kini diterbitkan sebagai artikel web. Hanya perbaikan typo/tanda baca minor (lihat PRD bagian 10). Dilarang menambah fakta, angka, atau kutipan baru. Di UI, gunakan kata 'artikel' dan 'penyusun', bukan 'paper' dan 'penulis'.",
+  "meta": {
+    "judul": "Akuntabilitas Anggaran Organisasi Mahasiswa sebagai Fondasi Budaya Antikorupsi: Studi pada Bendahara Ormawa dan Unit Kegiatan Mahasiswa",
+    "judul_kapital": "AKUNTABILITAS ANGGARAN ORGANISASI MAHASISWA SEBAGAI FONDASI BUDAYA ANTIKORUPSI: STUDI PADA BENDAHARA ORMAWA DAN UNIT KEGIATAN MAHASISWA",
+    "mata_kuliah": "Kewarganegaraan",
+    "program_studi": "Program Studi S1 Teknik Logistik",
+    "direktorat": "Direktorat Kampus Purwokerto",
+    "universitas": "Universitas Telkom Purwokerto",
+    "tahun": 2026,
+    "kelompok": "Kelompok 5",
+    "jenis_publikasi": "Artikel"
+  },
+  "tim_penyusun": {
+    "judul": "Tim penyusun artikel",
+    "pengantar": "Artikel ini disusun oleh Kelompok 5 untuk mata kuliah Kewarganegaraan, Program Studi S1 Teknik Logistik, Direktorat Kampus Purwokerto, Universitas Telkom Purwokerto.",
+    "anggota": [
+      {
+        "nama": "Nuriyatul Wafiroh",
+        "nim": "102102430035"
+      },
+      {
+        "nama": "Shoviena Dwi Masriyah Sandyu",
+        "nim": "102102400011"
+      },
+      {
+        "nama": "Infanisa Nur Azzahra",
+        "nim": "102102400022"
+      },
+      {
+        "nama": "Nizal Rizwan",
+        "nim": "102102400018"
+      },
+      {
+        "nama": "Kenan",
+        "nim": "102102400002"
+      },
+      {
+        "nama": "Muhammad Fitriansyah",
+        "nim": "102102430020"
+      }
+    ]
+  },
+  "ringkasan": "Wawancara lima bendahara ormawa menunjukkan pengajuan anggaran berbasis RAB sudah terstruktur, tetapi pemotongan dana, kecenderungan mengajukan berlebih, dan pengelolaan dana cadangan perlu transparansi agar tidak membuka celah korupsi.",
+  "angka_kunci": [
+    {
+      "nilai": 5,
+      "label": "bendahara/pengurus keuangan ormawa dan UKM diwawancarai"
+    },
+    {
+      "nilai": "19–49",
+      "label": "anggota aktif per organisasi responden"
+    },
+    {
+      "nilai": 7,
+      "label": "pertanyaan wawancara semi-terstruktur"
+    },
+    {
+      "nilai": 3,
+      "label": "titik rawan yang teridentifikasi"
+    },
+    {
+      "nilai": 4,
+      "label": "alternatif solusi yang diusulkan"
+    }
+  ],
+  "latar_belakang": {
+    "paragraf": [
+      "Korupsi merupakan persoalan sistemik yang tidak hanya merusak kepercayaan publik dan mengikis nilai-nilai Pancasila, tetapi juga menghambat pencapaian Sustainable Development Goals (SDGs), khususnya Target 16.5 untuk mengurangi korupsi dan penyuapan dalam segala bentuknya, serta Target 16.6 untuk membangun institusi yang efektif, akuntabel, dan transparan di semua tingkatan (United Nations, 2015). Pemberantasan korupsi tidak cukup bergantung pada penindakan hukum semata, melainkan memerlukan pembentukan budaya integritas yang berkelanjutan sejak dini di lingkungan perguruan tinggi sebagai wadah pencetakan calon pemimpin masa depan (Kementerian Pendidikan dan Kebudayaan, 2011).",
+      "Dalam kerangka pembangunan institusi yang akuntabel tersebut, organisasi kemahasiswaan (ormawa) dan unit kegiatan mahasiswa (UKM) memegang peran vital sebagai laboratorium kepemimpinan dan ruang latihan awal bagi mahasiswa dalam mengelola keuangan publik. Proses penyusunan Rencana Anggaran Biaya (RAB), mekanisme persetujuan, hingga pelaporan pertanggungjawaban dana kemahasiswaan menjadi cerminan nyata dari penerapan prinsip tata kelola yang baik (good governance). Apabila tata kelola anggaran ini dijalankan secara transparan dan berintegritas, kebiasaan positif tersebut akan memperkuat modal sosial mahasiswa saat memasuki dunia kerja dan jabatan publik. Sebaliknya, pembiaran terhadap praktik mark-up anggaran maupun ketidaktransparanan laporan keuangan berpotensi merusak fondasi institusi dan menjadi benih perilaku koruptif di masa depan."
+    ],
+    "sdg_targets": [
+      {
+        "kode": "16.5",
+        "isi": "Mengurangi korupsi dan penyuapan dalam segala bentuknya"
+      },
+      {
+        "kode": "16.6",
+        "isi": "Membangun institusi yang efektif, akuntabel, dan transparan di semua tingkatan"
+      }
+    ],
+    "pengantar_tujuan": "Berdasarkan urgensi pencapaian indikator SDGs dan penanaman nilai-nilai Pancasila tersebut, penelitian ini bertujuan untuk:",
+    "tujuan": [
+      "Menggambarkan proses pengajuan dan pengelolaan anggaran operasional pada ormawa dan UKM di lingkungan kampus.",
+      "Mengidentifikasi praktik baik (best practices) serta titik-titik rawan (vulnerabilities) yang berkaitan dengan integritas dan akuntabilitas keuangan organisasi mahasiswa.",
+      "Menganalisis dinamika tata kelola anggaran mahasiswa tersebut melalui perspektif nilai-nilai Pancasila dan teori antikorupsi guna mendukung tercapainya target SDGs 16."
+    ]
+  },
+  "metode": {
+    "pendekatan": "Penelitian ini menggunakan pendekatan kualitatif deskriptif.",
+    "data_primer": "Data primer diperoleh melalui wawancara semi-terstruktur dengan lima bendahara atau pengurus keuangan ormawa dan UKM yang memiliki 19 sampai 49 anggota aktif.",
+    "teknis": "Empat wawancara dilakukan secara lisan, direkam, lalu ditranskrip. Identitas responden disamarkan. Data dikelompokkan menurut tujuh pertanyaan dan dibandingkan antarresponden untuk menemukan pola. Kajian pustaka digunakan sebagai landasan teori.",
+    "pengantar_panduan": "Panduan wawancara adalah sebagai berikut.",
+    "panduan_wawancara": [
+      "Bagaimana proses pengajuan anggaran kegiatan di organisasi Anda, mulai dari pengajuan sampai anggaran disetujui?",
+      "Apa saja yang menjadi pertimbangan saat menentukan jumlah anggaran yang diajukan?",
+      "Apakah jumlah anggaran yang disetujui sesuai dengan jumlah yang diajukan? Jika berbeda, apa penyebabnya?",
+      "Berapa jumlah anggota aktif organisasi Anda, dan apakah jumlah tersebut menjadi pertimbangan dalam menentukan kebutuhan anggaran?",
+      "Apakah anggaran yang diterima sudah mencukupi kebutuhan kegiatan organisasi? Bisa berikan contohnya?",
+      "Apakah pernah ada kegiatan yang harus dikurangi, diubah, atau ditunda karena keterbatasan anggaran?",
+      "Menurut Anda, apa yang perlu diperbaiki agar pengajuan dan pembagian anggaran lebih sesuai dengan jumlah anggota serta kebutuhan kegiatan organisasi?"
+    ]
+  },
+  "dokumentasi": {
+    "judul": "Dokumentasi",
+    "catatan": "",
+    "foto": [
+      {
+        "file": "dokumentasi-1.jpg",
+        "alt": "Dokumentasi 1"
+      },
+      {
+        "file": "dokumentasi-2.jpg",
+        "alt": "Dokumentasi 2"
+      }
+    ]
+  },
+  "analisis": {
+    "alur_pengajuan": {
+      "judul": "Alur pengajuan",
+      "pembuka": "Seluruh responden menggambarkan alur serupa:",
+      "langkah": [
+        "Divisi atau panitia mendata kebutuhan",
+        "Bendahara menetapkan harga",
+        "RAB dan proposal disusun",
+        "Diajukan kepada kemahasiswaan atau instansi untuk disetujui"
+      ],
+      "tambahan": [
+        "Salah satu responden menambahkan rapat koordinasi di awal triwulan bersama koordinator, ketua himpunan, dan ketua pelaksana untuk memfiksasi kebutuhan.",
+        "Responden yang lain menyebutkan bahwa RAB memuat rincian barang, jumlah, nominal per item, dan total, serta ada mekanisme pengembalian dana panjar bila dana berlebih dan reimbursement bila kurang."
+      ]
+    },
+    "matriks": {
+      "judul": "Matriks evaluasi lima responden",
+      "responden": [
+        "Responden 1",
+        "Responden 2",
+        "Responden 3",
+        "Responden 4",
+        "Responden 5"
+      ],
+      "dimensi": [
+        {
+          "nama": "Kesesuaian dana disetujui",
+          "nilai": [
+            "Sering berbeda dari pengajuan",
+            "Selalu berbeda dari pengajuan",
+            "Sering berbeda dari pengajuan",
+            "Tidak selalu sama",
+            "Sebagian besar sesuai pengajuan"
+          ]
+        },
+        {
+          "nama": "Kecukupan dana",
+          "nilai": [
+            "Cukup",
+            "Kadang cukup",
+            "Belum cukup",
+            "Kadang cukup",
+            "Cukup"
+          ]
+        },
+        {
+          "nama": "Penyebab perbedaan",
+          "nilai": [
+            "Hanya menerima hasil revisi tanpa tahu alasannya",
+            "Pihak atas menilai pengajuan terlalu besar",
+            "Jatah anggaran ormawa dan UKM menurun",
+            "Pertimbangan lain dari kemahasiswaan",
+            "Efisiensi dari pusat dan arahan untuk menyewa bukan membeli"
+          ]
+        },
+        {
+          "nama": "Cara mengatasi kekurangan",
+          "nilai": [
+            "Menyiapkan safe money untuk bulan berkebutuhan dekat",
+            "Menyiapkan rencana cadangan sejak awal",
+            "Menghemat biaya kegiatan",
+            "Menunda kegiatan sementara dan mencari sponsor",
+            "Mengajukan banding anggaran"
+          ]
+        },
+        {
+          "nama": "Saran perbaikan responden",
+          "nilai": [
+            "Menetapkan kebutuhan lewat rapat di awal triwulan",
+            "Menentukan skala prioritas kegiatan",
+            "Acuan keuangan yang stabil dari periode ke periode",
+            "Belanja lebih cermat",
+            "Komunikasi lebih jelas soal item yang boleh diajukan"
+          ]
+        }
+      ]
+    },
+    "dasar_penentuan": {
+      "judul": "Dasar penentuan jumlah",
+      "paragraf": "Responden mempertimbangkan kebutuhan dan skala acara, jumlah peserta (terutama untuk konsumsi), serta efisiensi, misalnya meminjam atau menyewa barang daripada membeli. Pengajuan harga yang digelembungkan, misalnya baterai seharga Rp20.000 diajukan Rp40.000, langsung ditolak. Jumlah anggota berpengaruh terutama pada konsumsi dan kegiatan besar.",
+      "contoh_harga": {
+        "harga_asli": "Rp20.000",
+        "diajukan": "Rp40.000",
+        "hasil": "Langsung ditolak",
+        "barang": "Baterai"
+      },
+      "persetujuan": "Persetujuan dana sering berbeda dari yang diajukan: tidak selalu sama, kadang lebih, kadang kurang. Penyebabnya adalah pembagian anggaran ormawa dan UKM yang menurun, efisiensi dari pihak kampus yang menyarankan agar item disewa, bukan dibeli, serta pertimbangan lain dari kemahasiswaan. Ada pula yang menerima hasil revisi tanpa mengetahui penyebabnya."
+    },
+    "strategi_kekurangan": {
+      "judul": "Strategi menghadapi kekurangan",
+      "paragraf": "Tidak ada responden yang melaporkan kegiatan dibatalkan karena dana; hanya ada yang pernah menunda kegiatan sementara. Solusinya dengan adanya safe money, yaitu menyisihkan sebagian dana yang turun untuk dialokasikan ke bulan yang kebutuhannya besar. Strategi lain: mengandalkan tim sponsorship, menyiapkan rencana lain sejak awal, mengajukan banding, dan melakukan efisiensi biaya.",
+      "definisi_safe_money": "Menyisihkan sebagian dana yang turun untuk dialokasikan ke bulan yang kebutuhannya besar.",
+      "daftar": [
+        "Safe money",
+        "Tim sponsorship",
+        "Rencana lain sejak awal",
+        "Mengajukan banding",
+        "Efisiensi biaya"
+      ]
+    },
+    "akuntabilitas": {
+      "judul": "Akuntabilitas sebagai pengendali utama",
+      "paragraf": "Pihak kemahasiswaan memegang kewenangan besar dalam menyetujui dana, sementara bendahara memegang diskresi dalam menentukan harga dan item, sehingga akuntabilitas menjadi pengendali utama.",
+      "peran": [
+        {
+          "pihak": "Kemahasiswaan",
+          "kewenangan": "Kewenangan besar dalam menyetujui dana"
+        },
+        {
+          "pihak": "Bendahara",
+          "kewenangan": "Diskresi dalam menentukan harga dan item"
+        }
+      ]
+    },
+    "praktik_baik": {
+      "judul": "Praktik baik",
+      "pembuka": "Praktik baik terlihat pada:",
+      "daftar": [
+        "Penggunaan RAB rinci",
+        "Penolakan harga yang digelembungkan",
+        "Pengembalian dana panjar",
+        "Pertimbangan efisiensi"
+      ],
+      "penutup": "Praktik ini mencerminkan nilai jujur, tanggung jawab, disiplin, dan sederhana dalam sembilan nilai antikorupsi (Kementerian Pendidikan dan Kebudayaan, 2011).",
+      "nilai_antikorupsi_terkait": [
+        "Jujur",
+        "Tanggung jawab",
+        "Disiplin",
+        "Sederhana"
+      ]
+    },
+    "titik_rawan": {
+      "judul": "Tiga titik rawan",
+      "daftar": [
+        {
+          "nama": "Ekspektasi pemotongan",
+          "isi": "Pengajuan memang diperkirakan turun sehingga rencana lain sudah disiapkan. Kebiasaan menaikkan angka karena yakin akan dipotong dapat menormalkan penggelembungan anggaran, walaupun hal itu belum tentu terjadi pada kasus ini."
+        },
+        {
+          "nama": "Ketimpangan informasi",
+          "isi": "Alasan pemotongan tidak selalu dijelaskan kepada pengurus sehingga transparansi dari kemahasiswaan ke bawah lemah."
+        },
+        {
+          "nama": "Dana di luar anggaran resmi",
+          "isi": "Dana seperti safe money dan sponsorship dapat membantu kelangsungan kegiatan, tetapi tanpa pencatatan dan pelaporan terbuka berpotensi menimbulkan penyalahgunaan dan konflik kepentingan."
+        }
+      ],
+      "catatan_penyusun": "Tidak ada responden yang menyebut pelaporan keuangan terbuka kepada seluruh anggota, meskipun hal ini tidak ditanyakan secara khusus."
+    },
+    "pancasila": {
+      "judul": "Perspektif Pancasila",
+      "pengantar": "Pancasila sebagai ideologi dan dasar etika bangsa (Latif, 2011) dapat dibaca melalui kelima silanya secara utuh dalam tata kelola anggaran mahasiswa.",
+      "sila": [
+        {
+          "no": 1,
+          "nama": "Ketuhanan Yang Maha Esa",
+          "isi": "Menuntut kejujuran dan pertanggungjawaban moral kepada Tuhan atas setiap amanah dana yang dikelola."
+        },
+        {
+          "no": 2,
+          "nama": "Kemanusiaan yang Adil dan Beradab",
+          "isi": "Tercermin pada sikap menjunjung tinggi etika dan menolak penggelembungan harga (mark-up) yang merugikan pihak lain."
+        },
+        {
+          "no": 3,
+          "nama": "Persatuan Indonesia",
+          "isi": "Diwujudkan melalui solidaritas antar-divisi dan rasa memiliki terhadap organisasi dengan mengutamakan kepentingan bersama di atas kepentingan kelompok."
+        },
+        {
+          "no": 4,
+          "nama": "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan",
+          "isi": "Tercermin pada rapat koordinasi dan musyawarah fiksasi anggaran sebelum pengajuan."
+        },
+        {
+          "no": 5,
+          "nama": "Keadilan Sosial bagi Seluruh Rakyat Indonesia",
+          "isi": "Menuntut distribusi dana yang proporsional, sehingga penurunan jatah anggaran bagi ormawa dan UKM perlu dijelaskan secara terbuka agar dirasakan adil."
+        }
+      ]
+    },
+    "hukum_dan_sdgs": {
+      "judul": "Skala kenegaraan dan SDGs",
+      "paragraf": "Pada skala kenegaraan, pelanggaran terhadap nilai-nilai tersebut berujung pada tindak pidana korupsi sebagaimana diatur dalam UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001. Oleh karena itu, pembiasaan integritas sejak di organisasi mahasiswa merupakan langkah preventif sekaligus kontribusi nyata terhadap pencapaian Sustainable Development Goals (SDGs) Tujuan 16 (Peace, Justice, and Strong Institutions), khususnya Target 16.5 (mengurangi korupsi dan penyuapan dalam segala bentuknya) serta Target 16.6 (membangun institusi yang efektif, akuntabel, dan transparan di semua tingkatan).",
+      "uu": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001"
+    }
+  },
+  "alternatif": [
+    {
+      "judul": "Standarisasi Harga Acuan Kampus",
+      "isi": "Menyusun daftar harga acuan dan rubrik penilaian kelayakan anggaran bersama pihak kemahasiswaan agar bendahara tidak perlu melakukan mark-up defensif, serta mewajibkan alasan tertulis atas setiap pemotongan/revisi dana.",
+      "menjawab_titik_rawan": [
+        "Ekspektasi pemotongan",
+        "Ketimpangan informasi"
+      ]
+    },
+    {
+      "judul": "Digitalisasi Pembukuan Terpadu",
+      "isi": "Mengintegrasikan pencatatan seluruh arus kas, termasuk dana kampus, safe money, dan dana sponsor, ke dalam sistem pembukuan transparan yang dilengkapi nota dan bukti pembelian sah.",
+      "menjawab_titik_rawan": [
+        "Dana di luar anggaran resmi"
+      ]
+    },
+    {
+      "judul": "Mekanisme Audit Sosial dan Publikasi Berkala",
+      "isi": "Mewajibkan pemaparan laporan keuangan dan ringkasan pertanggungjawaban dalam rapat anggota secara berkala (triwulanan atau pasca-acara) guna memperkuat kontrol sosial internal.",
+      "menjawab_titik_rawan": [
+        "Ketimpangan informasi",
+        "Dana di luar anggaran resmi"
+      ]
+    },
+    {
+      "judul": "Penguatan Kapasitas dan Pengawasan Internal",
+      "isi": "Membentuk kesadaran kolektif pengurus dan anggota melalui internalisasi nilai-nilai antikorupsi agar transparansi keuangan menjadi budaya kerja yang berkelanjutan di lingkungan kampus.",
+      "menjawab_titik_rawan": [
+        "Ekspektasi pemotongan"
+      ]
+    }
+  ],
+  "_catatan_alternatif": "Field menjawab_titik_rawan adalah pemetaan opsional untuk UI (hubungan visual). Pemetaan ini inferensi penyusun PRD, bukan klaim eksplisit artikel. Jika dipakai, beri label 'Pemetaan indikatif'.",
+  "kesimpulan": {
+    "paragraf": "Pengelolaan anggaran pada ormawa dan UKM yang diteliti sudah memiliki dasar akuntabilitas berupa RAB rinci, koordinasi sebelum pengajuan, penolakan harga tidak wajar, dan efisiensi. Tantangannya adalah kebiasaan mengantisipasi pemotongan, minimnya penjelasan atas pemotongan, serta pencatatan dana di luar anggaran resmi.",
+    "pengantar_rekomendasi": "Kami merekomendasikan:",
+    "rekomendasi": [
+      "Kemahasiswaan memberikan penjelasan tertulis atas setiap pemotongan.",
+      "Ormawa memakai daftar harga acuan dan menyimpan bukti pembelian.",
+      "Safe money dan dana sponsor dicatat serta dilaporkan dalam rapat anggota.",
+      "Laporan pertanggungjawaban keuangan dibuka kepada seluruh anggota."
+    ],
+    "keterbatasan": "Penelitian ini terbatas pada lima responden sehingga belum dapat digeneralisasi.",
+    "penutup": "Melalui praktik keuangan yang jujur dan terbuka, mahasiswa menunjukkan civic integrity dalam tindakan nyata, bukan hanya dalam wacana."
+  },
+  "daftar_pustaka": [
+    "Kementerian Pendidikan dan Kebudayaan. (2011). Pendidikan anti korupsi untuk perguruan tinggi. Direktorat Jenderal Pendidikan Tinggi.",
+    "Klitgaard, R. (1988). Controlling corruption. University of California Press.",
+    "Kristiansen, S., & Santoso, P. (2006). Surviving corrupt environments: Shifting core values among Indonesian students. Development and Change, 37(5), 1013–1040.",
+    "Latif, Y. (2011). Negara paripurna: Historisitas, rasionalitas, dan aktualitas Pancasila. Gramedia Pustaka Utama.",
+    "Merchant, K. A., & Van der Stede, W. A. (2017). Management control systems: performance measurement, evaluation and incentives. Pearson Education.",
+    "Nugroho, A. B., & Handayani, S. (2020). Akuntabilitas dan transparansi pengelolaan keuangan organisasi kemahasiswaan dalam membentuk karakter integritas mahasiswa. Jurnal Karakter Pembangunan, 8(2), 112–125.",
+    "Pope, J. (2003). Strategi memberantas korupsi: Elemen sistem integritas nasional. Yayasan Obor Indonesia.",
+    "Prabowo, H. Y. (2014). To catch a thief, one must think like a thief: Acting on the young generation's perception of corruption in Indonesia. International Journal of Development Issues, 13(2), 162–182.",
+    "Undang-Undang Republik Indonesia Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi, sebagaimana diubah dengan Undang-Undang Nomor 20 Tahun 2001.",
+    "United Nations. (2015). Transforming our world: The 2030 Agenda for Sustainable Development (A/RES/70/1). United Nations General Assembly.",
+    "Wibawa, K. C. S. (2017). Integrasi pendidikan antikorupsi dalam kurikulum perguruan tinggi sebagai upaya pencegahan korupsi. Jurnal Pendidikan Hukum, 6(1), 45–58."
+  ]
+}
